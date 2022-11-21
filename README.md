@@ -1,6 +1,6 @@
 # MERN AMAZONA
 
-![amazona](/frontend/public/images/amazona.jpg)
+![amazona 1](https://user-images.githubusercontent.com/108712171/203068978-6e26ca43-e762-4a2d-bb7b-b1e129e3bbbe.jpeg)
 
 ### 1. Create .env File
 
